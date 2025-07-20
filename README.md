@@ -8,5 +8,5 @@ Binaries http://voidrepo.duckdns.org/
 
 
 Originnal project
-[https://mhogomchungu.github.io/sirikali/](https://github.com/byawitz/ggh)
+[https://github.com/byawitz/ggh/](https://github.com/byawitz/ggh)
 
