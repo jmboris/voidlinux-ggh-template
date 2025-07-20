@@ -1,8 +1,9 @@
 # voidlinux-ggh-template
 Recall your SSH sessions (also search your SSH config file)
 
-Binaries http://voidrepo.duckdns.org/
+version v0.1.4
 
+Binaries http://voidrepo.duckdns.org/
 
 
 Originnal project
